@@ -1,0 +1,11 @@
+{
+  "name": "foody",
+  "version": "1.0.0",
+  "description": "foody app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "akshay jain",
+  "license": "ISC"
+}
