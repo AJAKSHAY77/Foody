@@ -2,10 +2,21 @@
   "name": "foody",
   "version": "1.0.0",
   "description": "foody app",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
   "author": "akshay jain",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 10 chrome version",
+    "last 10 Firefox version"
+  ]
 }
